@@ -1,0 +1,21 @@
+id;dep_id;full_name;salary
+1;1;Nicolas Cage;2000
+2;1;Steven Seagal;2500
+3;1;Jacky Chan;1800
+4;1;Hulk Hogan;2500
+5;1;Rutger Hauer;110
+6;2;Danny Glover;900
+7;2;Danny Trejo;5000
+8;2;Clint Eastwood;3300
+9;2;Christopher Lambert;4000
+10;3;Kurt Russell;4000
+11;3;Carl Weathers;1100
+12;4;Brian Thompson;2000
+13;4;Àdrian Paul;2000
+14;4;Vin Diesel;2000
+15;4;Harrison Ford;1900
+16;4; Keanu Reeves;11000
+17;5;Tom Hanks;800
+18;5;Dolph Lundgren;8000
+19;5;Bruce Willis;6000
+20;5;Arnold Schwarzenegger;5000
